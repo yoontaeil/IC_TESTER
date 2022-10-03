@@ -1,0 +1,37 @@
+[ AUTO ON ]
+   - input : Eagle전용
+      if "BA" then ">"
+
+   - output : Wafer test start, Wafer number = 1
+      "WBI/1"
+
+[ INK 마무리후 ]
+   - output : Wafer end (양품수량을 넣을지 정해야 한다.)
+      1) "PC"
+      2) "PC"+good count
+
+   - output : Eagle tester용 코드
+      1) lot end   : "PCP1LOSOROW/-1"
+      2) wafer end : "PCP1LOS1R1W/-1"
+
+   - output : Eagle전용
+      ">"
+
+[ TEST ] 
+   - output : 처음에 TF를 사용할지 TS를 사용할지 정하면 된다.
+      "TFX0Y0,15" - 처음
+      "TSX1Y0,15" - 나머지
+
+   - input : ET or TE 들어오는 내용에 따라 변경하면 된다.
+      "ET1,1,1,1"
+
+   - output : Eagle전용
+      ">"
+
+[ Timer1 ]
+   - input
+      if "ID" then
+   
+   - output
+      ">"
+      "2001X.CE.249799-001"

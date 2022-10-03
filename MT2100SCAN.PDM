@@ -1,0 +1,459 @@
+[Root]
+Most Recent Package=SDT-2200SC
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+d:\test program 정리\sdt-2200 (sc)\station2.exe=
+d:\test program 정리\sdt-2200 (sc)\sdt-2200sc.exe=
+d:\test program 정리\sdt-2200 (sc)\station1.exe=
+
+[Package|Standard Setup Package 1|Files Removed]
+d:\test program 정리\sdt-2200 (sc)\station1.exe=
+d:\test program 정리\sdt-2200 (sc)\station2.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=No
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=multi
+Size=1.44 MB
+Title=SDT-2200SC
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=SDT-2200SC
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|SDT-2200SC]
+Icon1=SDT-2200SC.exe
+Title1=SDT-2200SC
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio1.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio2.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio3.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|SDT-2200SC(PC용)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup
+
+[Package|SDT-2200SC(PC용)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SDT-2200SC(PC용)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SDT-2200SC(PC용)|Files Found]
+
+[Package|SDT-2200SC(PC용)|Files Released]
+
+[Package|SDT-2200SC(PC용)|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\port_io.dll=
+
+[Package|SDT-2200SC(PC용)|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|SDT-2200SC(PC용)|Files Added]
+d:\test program 정리\sdt-2200 (sc)\station2.exe=
+d:\test program 정리\sdt-2200 (sc)\sdt-2200sc.exe=
+d:\test program 정리\sdt-2200 (sc)\station1.exe=
+
+[Package|SDT-2200SC(PC용)|Files Removed]
+d:\test program 정리\sdt-2200 (sc)\station1.exe=
+d:\test program 정리\sdt-2200 (sc)\station2.exe=
+
+[Package|SDT-2200SC(PC용)|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\sdt-2200sc.exe=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\port_io.dll=Yes
+
+[Package|SDT-2200SC(PC용)|Configure Registry Files]
+Applicable=No
+
+[Package|SDT-2200SC(PC용)|Configure Remote Servers]
+Applicable=No
+
+[Package|SDT-2200SC(PC용)|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\sdt-2200sc.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\port_io.dll=$(WinSysPath)
+
+[Package|SDT-2200SC(PC용)|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\sdt-2200sc.exe=No
+
+[Package|SDT-2200SC(PC용)|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200SC(PC용)
+
+[Package|SDT-2200SC(PC용)|IconGroups]
+Group0=SDT-2200SC
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|SDT-2200SC(PC용)|SDT-2200SC]
+Icon1=sdt-2200sc.exe
+Title1=SDT-2200SC
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|SDT-2200SC(PC용)|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\sdt-221.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\sdt-222.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\sdt-223.CAB
+File6=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\sdt-224.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|SDT-2200SC|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup
+
+[Package|SDT-2200SC|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SDT-2200SC|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SDT-2200SC|Files Found]
+
+[Package|SDT-2200SC|Files Released]
+station2.exe=
+sdt-2200sc.exe=
+
+[Package|SDT-2200SC|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station2.exe=
+
+[Package|SDT-2200SC|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|SDT-2200SC|Files Added]
+d:\test program 정리\sdt-2200 (sc)\sdt-2200sc.exe=
+d:\test program 정리\sdt-2200 (sc)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=
+
+[Package|SDT-2200SC|Files Removed]
+d:\test program 정리\sdt-2200 (sc)\sdt-2200sc.exe=
+d:\test program 정리\sdt-2200 (sc)수정중\sdt-2200sc.exe=
+d:\test program 정리\sdt-2200 (sc)\station1.exe=
+
+[Package|SDT-2200SC|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\sdt-2200sc.exe=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=No
+
+[Package|SDT-2200SC|Configure Registry Files]
+Applicable=No
+
+[Package|SDT-2200SC|Configure Remote Servers]
+Applicable=No
+
+[Package|SDT-2200SC|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station2.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\port_io.dll=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\sdt-2200sc.exe=$(AppPath)
+
+[Package|SDT-2200SC|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station1.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)\SDT-2200SC.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (SC)수정중\sdt-2200sc.exe=No
+
+[Package|SDT-2200SC|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200SC
+
+[Package|SDT-2200SC|IconGroups]
+Group0=SDT-2200SC
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|SDT-2200SC|SDT-2200SC]
+Icon1=sdt-2200sc.exe
+Title1=sdt-2200sc
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|SDT-2200SC|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (SC)
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio1.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio2.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio3.CAB
+File6=D:\TEST PROGRAM 정리\SDT-2200 (SC)\pc setup\statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz

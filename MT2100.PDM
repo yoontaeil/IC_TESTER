@@ -1,0 +1,3758 @@
+[Root]
+Most Recent Package=SPC-2001
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|Standard Setup Package 2|Files Added]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+
+[Package|Standard Setup Package 2|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+
+[Package|Standard Setup Package 2|Files In Project]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=SDT-2200
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|SDT-2200]
+Icon1=SDT-2200.exe
+Title1=SDT-2200
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)\statio1.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)\statio2.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)\statio3.CAB
+File6=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup(생기)\statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+
+[Package|Standard Setup Package 1|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)\statio1.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)\statio2.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)\statio3.CAB
+File6=D:\TEST PROGRAM 정리\SDT-2200 (standard)\Standard(생기)\statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=SDT-2200
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|SDT-2200]
+Icon1=station2.exe
+Title1=station2
+StartIn1=$(AppPath)
+Key1=Icon3
+Icon2=station1.exe
+Title2=station1
+StartIn2=$(AppPath)
+Key2=Icon2
+
+
+[Package|Standard Setup Package 0|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup
+
+[Package|Standard Setup Package 0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 0|Files Found]
+
+[Package|Standard Setup Package 0|Files Released]
+
+[Package|Standard Setup Package 0|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+
+[Package|Standard Setup Package 0|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|Standard Setup Package 0|Files Added]
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+
+[Package|Standard Setup Package 0|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+
+[Package|Standard Setup Package 0|Files In Project]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=Yes
+
+[Package|Standard Setup Package 0|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 0|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 0|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+
+[Package|Standard Setup Package 0|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+
+[Package|Standard Setup Package 0|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200, 2100 PC용
+
+[Package|Standard Setup Package 0|IconGroups]
+Group0=SDT-2200
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 0|SDT-2200]
+Icon1="pc sdt-2200.exe"
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 0|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\statio1.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\statio2.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\statio3.CAB
+File6=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|SDT-2200SC]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2=station2.exe
+Title2=station2
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|Standard Setup Package 3|SDT-2200]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2=station2.exe
+Title2=station2
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+
+[Package|Standard Setup Package 3|Files Added]
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\pc.exe=
+
+[Package|Standard Setup Package 3|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+
+[Package|Standard Setup Package 3|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200SMF
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=SDT-2200SMF
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|SDT-2200SMF]
+Icon1=pc.exe
+Title1=pc
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP
+ProjectFolder=D:\TEST PROGRAM 정리\SDT-2200 (standard)
+ServerSideCab=
+File1=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP\setup.exe
+File2=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP\Setup.Lst
+File3=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP\pc1.CAB
+File4=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP\pc2.CAB
+File5=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP\pc3.CAB
+File6=D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc setup\SDT-2200SMF PC SET UP\pc4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|sdt-2100(pc용)|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|sdt-2100(pc용)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)
+
+[Package|sdt-2100(pc용)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2100(pc용)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2100(pc용)|Files Found]
+
+[Package|sdt-2100(pc용)|Files Released]
+pc sdt-2200.exe=
+sdt-2100.exe=
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+
+[Package|sdt-2100(pc용)|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+
+[Package|sdt-2100(pc용)|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+
+[Package|sdt-2100(pc용)|Files Added]
+c:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\WINDOWS\SYSTEM\port_io.dll=
+
+[Package|sdt-2100(pc용)|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+
+[Package|sdt-2100(pc용)|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\port_io.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=Yes
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+
+[Package|sdt-2100(pc용)|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2100(pc용)|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2100(pc용)|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+
+[Package|sdt-2100(pc용)|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=No
+
+[Package|sdt-2100(pc용)|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2100 PC용
+
+[Package|sdt-2100(pc용)|Package]
+PackageFolder=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)
+ProjectFolder=C:\jma_vb\work\작업폴더\sblist-last
+ServerSideCab=
+File1=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)\setup.exe
+File2=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)\Setup.Lst
+File3=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)\pc1.CAB
+File4=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)\pc2.CAB
+File5=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)\pc3.CAB
+File6=c:\jma_vb\work\작업폴더\sblist-last\pc(3pin)\pc4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|sdt-2100(pc용)|IconGroups]
+Group0=SDT-2200
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2100(pc용)|SDT-2200]
+Icon1=pc.exe
+Title1=pc
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|sdt-2100k(pc용)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100
+
+[Package|sdt-2100k(pc용)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2100k(pc용)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2100k(pc용)|Files Found]
+station1.exe=D:\vb_jma\work\작업폴더(standard)\station1.exe
+
+[Package|sdt-2100k(pc용)|Files Released]
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+
+[Package|sdt-2100k(pc용)|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\vb_jma\work\작업폴더(standard)\station1.exe=
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+
+[Package|sdt-2100k(pc용)|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+
+[Package|sdt-2100k(pc용)|Files Added]
+c:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+c:\windows\system\port_io.dll=
+
+[Package|sdt-2100k(pc용)|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\pc.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\vb_jma\work\작업폴더(standard)\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+
+[Package|sdt-2100k(pc용)|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=Yes
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+C:\WINDOWS\SYSTEM\port_io.dll=Yes
+
+[Package|sdt-2100k(pc용)|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2100k(pc용)|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2100k(pc용)|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+D:\vb_jma\work\작업폴더(standard)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+
+[Package|sdt-2100k(pc용)|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\vb_jma\work\작업폴더(standard)\station1.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=Yes
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+
+[Package|sdt-2100k(pc용)|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2100
+
+[Package|sdt-2100k(pc용)|IconGroups]
+Group0=SDT-2100
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2100k(pc용)|SDT-2100]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|sdt-2100k(pc용)|Package]
+PackageFolder=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100
+ProjectFolder=C:\jma_vb\work\작업폴더\sblist-last
+ServerSideCab=
+File1=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100\setup.exe
+File2=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100\Setup.Lst
+File3=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100\statio1.CAB
+File4=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100\statio2.CAB
+File5=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100\statio3.CAB
+File6=c:\jma_vb\work\작업폴더\sblist-last\sdt-2100\statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|sdt-2200SC|SDT-2200sc]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2=station2.exe
+Title2=station2
+StartIn2=$(AppPath)
+Key2=Icon3
+
+
+[Package|sdt-2200(pc용)|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|sdt-2200(pc용)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC
+
+[Package|sdt-2200(pc용)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2200(pc용)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2200(pc용)|Files Found]
+
+[Package|sdt-2200(pc용)|Files Released]
+pc sdt-2200.exe=
+sdt-2100.exe=
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+pc.exe=
+
+[Package|sdt-2200(pc용)|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\PC.EXE=
+C:\WINDOWS\system32\SBList30.ocx=
+C:\WINDOWS\system32\hirestimer.ocx=
+C:\WINDOWS\system32\DLPORTIO.dll=
+
+[Package|sdt-2200(pc용)|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+
+[Package|sdt-2200(pc용)|Files Added]
+pc.exe=
+c:\windows\system\port_io.dll=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\PC.EXE=
+
+[Package|sdt-2200(pc용)|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+c:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\station2.exe=
+
+[Package|sdt-2200(pc용)|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\PC.EXE=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+
+[Package|sdt-2200(pc용)|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2200(pc용)|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2200(pc용)|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\multi개발\sblist_last02171\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\PC.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\sdt-2200(half보완1)\PC.EXE=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6KO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DLPORTIO.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\THREED32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\GRID32.OCX=$(AppPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\sdt-2200(half3-0607)\PC.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\PC.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\PC.EXE=$(AppPath)
+
+[Package|sdt-2200(pc용)|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=No
+C:\multi개발\sblist_last02171\pc.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\pc.exe=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\PC.EXE=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\sdt-2200(half보완1)\PC.EXE=No
+C:\work\sdt-2200(xp-half)\GRID32.OCX=No
+C:\sdt-2200(half3-0607)\PC.EXE=No
+C:\sdt-2200(half4-0607)\PC.EXE=No
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\PC.EXE=No
+
+[Package|sdt-2200(pc용)|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200 PC용
+
+[Package|sdt-2200(pc용)|IconGroups]
+Group0=SDT-2200
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2200(pc용)|SDT-2200]
+Icon1=pc.exe
+Title1=pc
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|sdt-2200(pc용)|Package]
+PackageFolder=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC
+ProjectFolder=C:\jma_vb\work\작업폴더\sdt-2100(0616)
+ServerSideCab=
+File1=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC\setup.exe
+File2=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC\Setup.Lst
+File3=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC\Pc1.CAB
+File4=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC\Pc2.CAB
+File5=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC\Pc3.CAB
+File6=c:\jma_vb\work\작업폴더\sdt-2100(0616)\PC\Pc4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|sdt-2200sc|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|sdt-2200sc|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)
+
+[Package|sdt-2200sc|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2200sc|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2200sc|Files Found]
+station1.exe=C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE
+
+[Package|sdt-2200sc|Files Released]
+pc sdt-2200.exe=
+sdt-2100.exe=
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+pc.exe=
+
+[Package|sdt-2200sc|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=
+C:\WINDOWS\SYSTEM\FloatBox.ocx=
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\MBTimer.ocx=
+C:\multi개발\sblist_last02171\station1.exe=
+C:\multi개발\sblist_last02171\station2.exe=
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=
+C:\work\SBList30.ocx=
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=
+C:\sdt-2200(half1)\ibm_io.dll=
+C:\sdt-2200(half1)\station1.exe=
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\WINDOWS\system32\SBList30.ocx=
+C:\WINDOWS\system32\hirestimer.ocx=
+C:\WINDOWS\system32\DLPORTIO.dll=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\PC.EXE=
+C:\sdt-2200(half3-0607)\STATION2.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station1.exe=
+
+[Package|sdt-2200sc|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+
+[Package|sdt-2200sc|Files Added]
+c:\sdt-2200(half3-0607)\station2.exe=
+c:\sdt-2200(half3-0607)\pc.exe=
+C:\multi개발\sblist_last02171\station2.exe=
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=
+C:\sdt-2200(half1)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station1.exe=
+
+[Package|sdt-2200sc|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\windows\system\mbtimer.ocx=
+c:\sdt-2200(half3-0607)\pc.exe=
+c:\windows\system\msmask32.ocx=
+
+[Package|sdt-2200sc|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station2.exe=Yes
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station1.exe=Yes
+
+[Package|sdt-2200sc|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2200sc|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2200sc|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\FloatBox.ocx=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RCHTXKO.DLL=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=$(AppPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\multi개발\sblist_last02171\station2.exe=$(AppPath)
+C:\multi개발\sblist_last02171\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=$(AppPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=$(AppPath)
+C:\sdt-2200(half1)\station2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6KO.DLL=$(WinSysPath)
+C:\sdt-2200(half1)\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\threed32.ocx=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\GRID32.OCX=$(AppPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDKO.DLL=$(WinSysPath)
+C:\work\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\sdt-2200(half1)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=$(AppPath)
+C:\sdt-2200(0531)\STATION2.EXE=$(AppPath)
+C:\WINDOWS\system32\DLPORTIO.dll=$(WinSysPath)
+C:\WINDOWS\system32\THREED32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SBList30.ocx=$(WinSysPath)
+C:\sdt-2200(0531)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\0703\Station2.exe=$(AppPath)
+C:\0703\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station1.exe=$(AppPath)
+
+[Package|sdt-2200sc|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=No
+C:\multi개발\sblist_last02171\station2.exe=No
+C:\multi개발\sblist_last02171\station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=No
+C:\sdt-2200(half1)\station2.exe=No
+C:\work\sdt-2200(xp-half)\GRID32.OCX=No
+C:\sdt-2200(half1)\station1.exe=No
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION1.EXE=No
+C:\sdt-2200(half0603)\STATION2.EXE=No
+C:\sdt-2200(half0603)\STATION1.EXE=No
+C:\sdt-2200(half-0604)\STATION2.EXE=No
+C:\sdt-2200(half-0604)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\station1.exe=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=No
+C:\0703\Station2.exe=No
+C:\0703\Station1.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station2.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\Station1.exe=No
+
+[Package|sdt-2200sc|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200
+
+[Package|sdt-2200sc|IconGroups]
+Group0=SDT-2200
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2200sc|SDT-2200]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2=STATION2.EXE
+Title2=station2
+StartIn2=$(AppPath)
+Key2=Icon4
+
+[Package|sdt-2200sc|Package]
+PackageFolder=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)
+ProjectFolder=C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)
+ServerSideCab=
+File1=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)\setup.exe
+File2=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)\Setup.Lst
+File3=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)\Statio1.CAB
+File4=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)\Statio2.CAB
+File5=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)\Statio3.CAB
+File6=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200sc(0922)\sdt-2200sc(0922)\Statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|sdt-2200smf|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)
+
+[Package|sdt-2200smf|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2200smf|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2200smf|Files Found]
+
+[Package|sdt-2200smf|Files Released]
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+
+[Package|sdt-2200smf|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\vb_jma\work\작업폴더(standard)\station1.exe=
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+
+[Package|sdt-2200smf|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+
+[Package|sdt-2200smf|Files Added]
+c:\jma_vb\work\작업폴더\kec setup file(2004.09.22)\sdt-2200(0922)\station1.exe=
+c:\windows\system\port_io.dll=
+
+[Package|sdt-2200smf|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\pc.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\vb_jma\work\작업폴더(standard)\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\jma_vb\work\작업폴더\sdt-2200(0830)\station2.exe=
+
+[Package|sdt-2200smf|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=Yes
+C:\WINDOWS\SYSTEM\port_io.dll=Yes
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=Yes
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=Yes
+
+[Package|sdt-2200smf|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2200smf|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2200smf|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+D:\vb_jma\work\작업폴더(standard)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=$(AppPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\STATION1.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=$(AppPath)
+
+[Package|sdt-2200smf|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\vb_jma\work\작업폴더(standard)\station1.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=Yes
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=No
+
+[Package|sdt-2200smf|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2200SMF
+
+[Package|sdt-2200smf|IconGroups]
+Group0=SDT-2100
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2200smf|SDT-2100]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2=Station2.exe
+Title2=station2
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|sdt-2200smf|Package]
+PackageFolder=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)
+ProjectFolder=C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)
+ServerSideCab=
+File1=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)\setup.exe
+File2=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)\Setup.Lst
+File3=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)\Statio1.CAB
+File4=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)\Statio2.CAB
+File5=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)\Statio3.CAB
+File6=c:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\sdt-2200smf(1007)\Statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|sdt-2100k|SDT-2100]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|sdt-2100k|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)
+
+[Package|sdt-2100k|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2100k|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2100k|Files Found]
+station1.exe=D:\vb_jma\work\작업폴더(standard)\station1.exe
+
+[Package|sdt-2100k|Files Released]
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+
+[Package|sdt-2100k|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\vb_jma\work\작업폴더(standard)\station1.exe=
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\jma_vb\work\작업폴더\kilim\pc.exe=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+
+[Package|sdt-2100k|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\msflxgrd.ocx=
+
+[Package|sdt-2100k|Files Added]
+c:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+c:\windows\system\port_io.dll=
+C:\jma_vb\work\작업폴더\kilim\pc.exe=
+
+[Package|sdt-2100k|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\pc.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\vb_jma\work\작업폴더(standard)\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\jma_vb\work\작업폴더\kilim\station1.exe=
+
+[Package|sdt-2100k|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=Yes
+C:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\Station1.exe=Yes
+
+[Package|sdt-2100k|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2100k|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2100k|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+D:\vb_jma\work\작업폴더(standard)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kilim\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kilim\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100K(0426)\STATION1.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\Station1.exe=$(AppPath)
+
+[Package|sdt-2100k|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\vb_jma\work\작업폴더(standard)\station1.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=Yes
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=No
+C:\jma_vb\work\작업폴더\kilim\station1.exe=No
+C:\jma_vb\work\작업폴더\kilim\pc.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100K(0426)\STATION1.EXE=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\Station1.exe=No
+
+[Package|sdt-2100k|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2100K
+
+[Package|sdt-2100k|IconGroups]
+Group0=SDT-2100K
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2100k|SDT-2100K]
+Icon1=STATION1.EXE
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|sdt-2100k|Package]
+PackageFolder=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)
+ProjectFolder=C:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124
+ServerSideCab=
+File1=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)\setup.exe
+File2=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)\Setup.Lst
+File3=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)\Statio1.CAB
+File4=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)\Statio2.CAB
+File5=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)\Statio3.CAB
+File6=c:\sdt-xx(1123)\sdt-2100k(1000v-kilim)\bk1124\sdt-2100k(1124)\Statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|sdt-2100|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)
+
+[Package|sdt-2100|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2100|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2100|Files Found]
+
+[Package|sdt-2100|Files Released]
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+
+[Package|sdt-2100|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\vb_jma\work\작업폴더(standard)\station1.exe=
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+
+[Package|sdt-2100|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\msflxgrd.ocx=
+
+[Package|sdt-2100|Files Added]
+c:\jma_vb\work\작업폴더\sdt-2200(0830)\station1.exe=
+c:\windows\system\port_io.dll=
+
+[Package|sdt-2100|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\pc.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\vb_jma\work\작업폴더(standard)\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\jma_vb\work\작업폴더\sdt-2200(0830)\station2.exe=
+
+[Package|sdt-2100|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=Yes
+C:\WINDOWS\SYSTEM\threed32.ocx=Yes
+C:\WINDOWS\SYSTEM\hirestimer.ocx=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=Yes
+C:\WINDOWS\SYSTEM\SBList30.ocx=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=Yes
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=Yes
+C:\SDT-2100(2004.12.06)-SAME,CALC\Station1.exe=Yes
+
+[Package|sdt-2100|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2100|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2100|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\vb_jma\work\작업폴더(standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+D:\vb_jma\work\작업폴더(standard)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=$(AppPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\STATION1.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=$(AppPath)
+C:\SDT-2100(2004.12.06)-SAME,CALC\Station1.exe=$(AppPath)
+
+[Package|sdt-2100|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\vb_jma\work\작업폴더(standard)\station1.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(standard-odt)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=Yes
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\jma_vb\work\작업폴더\sdt-2100(0616)\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=No
+C:\SDT-2100(2004.12.06)-SAME,CALC\Station1.exe=No
+
+[Package|sdt-2100|Distribution]
+Type=multi
+Size=1.2 MB
+Title=SDT-2100
+
+[Package|sdt-2100|IconGroups]
+Group0=SDT-2100
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|sdt-2100|SDT-2100]
+Icon1=station1.exe
+Title1=station1
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|sdt-2100|Package]
+PackageFolder=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)
+ProjectFolder=C:\SDT-2100(2004.12.06)-SAME,CALC
+ServerSideCab=
+File1=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)\setup.exe
+File2=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)\Setup.Lst
+File3=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)\Statio1.CAB
+File4=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)\Statio2.CAB
+File5=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)\Statio3.CAB
+File6=c:\SDT-2100(2004.12.06)-SAME,CALC\SDT-2100(1206)\Statio4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|sdt-2200|SDT-2200]
+Icon1=Station2.exe
+Title1=station2
+StartIn1=$(AppPath)
+Key1=Icon4
+Icon2=station1.exe
+Title2=station1
+StartIn2=$(AppPath)
+Key2=Icon2
+
+
+[Package|sdt-2200|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|sdt-2200|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Star Probe\Program\set up file
+
+[Package|sdt-2200|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2200|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2200|Files Found]
+station1.exe=C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE
+
+[Package|sdt-2200|Files Released]
+pc sdt-2200.exe=
+sdt-2100.exe=
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+pc.exe=
+vbsicl32.dll=
+vbsicl16.dll=
+
+[Package|sdt-2200|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=
+C:\WINDOWS\SYSTEM\FloatBox.ocx=
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\MBTimer.ocx=
+C:\multi개발\sblist_last02171\station1.exe=
+C:\multi개발\sblist_last02171\station2.exe=
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=
+C:\work\SBList30.ocx=
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=
+C:\sdt-2200(half1)\ibm_io.dll=
+C:\sdt-2200(half1)\station1.exe=
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\WINDOWS\system32\SBList30.ocx=
+C:\WINDOWS\system32\hirestimer.ocx=
+C:\WINDOWS\system32\DLPORTIO.dll=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\PC.EXE=
+C:\sdt-2200(half3-0607)\STATION2.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=
+C:\SDT-2200(1117-BVDSX)\Station1.exe=
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=
+
+[Package|sdt-2200|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\msflxgrd.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|sdt-2200|Files Added]
+station2.exe=
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=
+C:\sdt-2200(half1)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=
+C:\SDT-2200(1117-BVDSX)\Station1.exe=
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=
+
+[Package|sdt-2200|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\windows\system\mbtimer.ocx=
+c:\sdt-2200(half3-0607)\pc.exe=
+c:\windows\system\msmask32.ocx=
+
+[Package|sdt-2200|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6KO.DLL=Yes
+C:\WINDOWS\system32\DLPORTIO.dll=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\CMCTLKO.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGKO.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCKO.DLL=Yes
+C:\WINDOWS\system32\THREED32.OCX=Yes
+C:\WINDOWS\system32\hirestimer.ocx=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSCOMKO.DLL=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDKO.DLL=Yes
+C:\WINDOWS\system32\SBList30.ocx=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\MSMSKKO.DLL=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\SYSINKO.DLL=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\TABCTKO.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+
+[Package|sdt-2200|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2200|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2200|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\FloatBox.ocx=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RCHTXKO.DLL=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=$(AppPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\multi개발\sblist_last02171\station2.exe=$(AppPath)
+C:\multi개발\sblist_last02171\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=$(AppPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=$(AppPath)
+C:\sdt-2200(half1)\station2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6KO.DLL=$(WinSysPath)
+C:\sdt-2200(half1)\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\threed32.ocx=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\GRID32.OCX=$(AppPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDKO.DLL=$(WinSysPath)
+C:\work\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\sdt-2200(half1)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=$(AppPath)
+C:\sdt-2200(0531)\STATION2.EXE=$(AppPath)
+C:\WINDOWS\system32\DLPORTIO.dll=$(WinSysPath)
+C:\WINDOWS\system32\THREED32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SBList30.ocx=$(WinSysPath)
+C:\sdt-2200(0531)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\0703\Station2.exe=$(AppPath)
+C:\0703\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=$(AppPath)
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=$(AppPath)
+C:\SDT-2200(1117-BVDSX)\Station2.exe=$(AppPath)
+C:\SDT-2200(1117-BVDSX)\Station1.exe=$(AppPath)
+C:\sdt-xx(1129)\SDT-2200\Station2.exe=$(AppPath)
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=$(AppPath)
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station2.exe=$(AppPath)
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=$(AppPath)
+C:\SDT-2200(2004.12.06) SAME,CALC\Station2.exe=$(AppPath)
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=$(AppPath)
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station2.exe=$(AppPath)
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=$(AppPath)
+D:\Tester SW(DC)\SDT-2200\Station2.exe=$(AppPath)
+D:\Tester SW(DC)\SDT-2200\Station1.exe=$(AppPath)
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=$(AppPath)
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=$(AppPath)
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=$(AppPath)
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=$(AppPath)
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=$(AppPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTKO.DLL=$(WinSysPath)
+
+[Package|sdt-2200|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=No
+C:\multi개발\sblist_last02171\station2.exe=No
+C:\multi개발\sblist_last02171\station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=No
+C:\sdt-2200(half1)\station2.exe=No
+C:\work\sdt-2200(xp-half)\GRID32.OCX=No
+C:\sdt-2200(half1)\station1.exe=No
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION1.EXE=No
+C:\sdt-2200(half0603)\STATION2.EXE=No
+C:\sdt-2200(half0603)\STATION1.EXE=No
+C:\sdt-2200(half-0604)\STATION2.EXE=No
+C:\sdt-2200(half-0604)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\station1.exe=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=No
+C:\0703\Station2.exe=No
+C:\0703\Station1.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=No
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station2.exe=No
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=No
+C:\SDT-2200(1117-BVDSX)\Station2.exe=No
+C:\SDT-2200(1117-BVDSX)\Station1.exe=No
+C:\sdt-xx(1129)\SDT-2200\Station2.exe=No
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=No
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station2.exe=No
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=No
+C:\SDT-2200(2004.12.06) SAME,CALC\Station2.exe=No
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=No
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station2.exe=No
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=No
+D:\Tester SW(DC)\SDT-2200\Station2.exe=No
+D:\Tester SW(DC)\SDT-2200\Station1.exe=No
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=No
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=No
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=No
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=No
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=No
+
+[Package|sdt-2200|Distribution]
+Type=multi
+Size=1.2 MB
+Title=Star Probe
+
+[Package|sdt-2200|IconGroups]
+Group0=Star Probe
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|sdt-2200|Star Probe]
+Icon1=StarProbe.exe
+Title1=StarProbe
+StartIn1=$(AppPath)
+Key1=Icon4
+
+[Package|sdt-2200|Package]
+PackageFolder=C:\Star Probe\Program\set up file
+ProjectFolder=C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3
+ServerSideCab=
+File1=C:\Star Probe\Program\set up file\setup.exe
+File2=C:\Star Probe\Program\set up file\Setup.Lst
+File3=C:\Star Probe\Program\set up file\StarPr1.CAB
+File4=C:\Star Probe\Program\set up file\StarPr2.CAB
+File5=C:\Star Probe\Program\set up file\StarPr3.CAB
+File6=C:\Star Probe\Program\set up file\StarPr4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|sdt-2100(SPX)|SDT-2200]
+Icon1=Station2.exe
+Title1=station2
+StartIn1=$(AppPath)
+Key1=Icon4
+Icon2=station1.exe
+Title2=station1
+StartIn2=$(AppPath)
+Key2=Icon2
+
+[Package|sdt-2100(SPX)|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|sdt-2100(SPX)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE
+
+[Package|sdt-2100(SPX)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdt-2100(SPX)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdt-2100(SPX)|Files Found]
+station1.exe=C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE
+
+[Package|sdt-2100(SPX)|Files Released]
+pc sdt-2200.exe=
+sdt-2100.exe=
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+pc.exe=
+vbsicl32.dll=
+vbsicl16.dll=
+
+[Package|sdt-2100(SPX)|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=
+C:\WINDOWS\SYSTEM\FloatBox.ocx=
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\MBTimer.ocx=
+C:\multi개발\sblist_last02171\station1.exe=
+C:\multi개발\sblist_last02171\station2.exe=
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=
+C:\work\SBList30.ocx=
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=
+C:\sdt-2200(half1)\ibm_io.dll=
+C:\sdt-2200(half1)\station1.exe=
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\WINDOWS\system32\SBList30.ocx=
+C:\WINDOWS\system32\hirestimer.ocx=
+C:\WINDOWS\system32\DLPORTIO.dll=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\PC.EXE=
+C:\sdt-2200(half3-0607)\STATION2.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=
+C:\SDT-2200(1117-BVDSX)\Station1.exe=
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=
+
+[Package|sdt-2100(SPX)|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\msflxgrd.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|sdt-2100(SPX)|Files Added]
+station2.exe=
+station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=
+C:\SDT-2200(1117-BVDSX)\Station1.exe=
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=
+
+[Package|sdt-2100(SPX)|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\windows\system\mbtimer.ocx=
+c:\sdt-2200(half3-0607)\pc.exe=
+c:\windows\system\msmask32.ocx=
+
+[Package|sdt-2100(SPX)|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6KO.DLL=Yes
+C:\WINDOWS\system32\DLPORTIO.dll=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\CMCTLKO.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGKO.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCKO.DLL=Yes
+C:\WINDOWS\system32\THREED32.OCX=Yes
+C:\WINDOWS\system32\hirestimer.ocx=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSCOMKO.DLL=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDKO.DLL=Yes
+C:\WINDOWS\system32\SBList30.ocx=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\MSMSKKO.DLL=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\SYSINKO.DLL=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\TABCTKO.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\StarProbe.exe=Yes
+
+[Package|sdt-2100(SPX)|Configure Registry Files]
+Applicable=No
+
+[Package|sdt-2100(SPX)|Configure Remote Servers]
+Applicable=No
+
+[Package|sdt-2100(SPX)|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\FloatBox.ocx=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RCHTXKO.DLL=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=$(AppPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\multi개발\sblist_last02171\station2.exe=$(AppPath)
+C:\multi개발\sblist_last02171\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=$(AppPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=$(AppPath)
+C:\sdt-2200(half1)\station2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6KO.DLL=$(WinSysPath)
+C:\sdt-2200(half1)\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\threed32.ocx=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\GRID32.OCX=$(AppPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDKO.DLL=$(WinSysPath)
+C:\work\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\sdt-2200(half1)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=$(AppPath)
+C:\sdt-2200(0531)\STATION2.EXE=$(AppPath)
+C:\WINDOWS\system32\DLPORTIO.dll=$(WinSysPath)
+C:\WINDOWS\system32\THREED32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SBList30.ocx=$(WinSysPath)
+C:\sdt-2200(0531)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\0703\Station2.exe=$(AppPath)
+C:\0703\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=$(AppPath)
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=$(AppPath)
+C:\SDT-2200(1117-BVDSX)\Station2.exe=$(AppPath)
+C:\SDT-2200(1117-BVDSX)\Station1.exe=$(AppPath)
+C:\sdt-xx(1129)\SDT-2200\Station2.exe=$(AppPath)
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=$(AppPath)
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station2.exe=$(AppPath)
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=$(AppPath)
+C:\SDT-2200(2004.12.06) SAME,CALC\Station2.exe=$(AppPath)
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=$(AppPath)
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station2.exe=$(AppPath)
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=$(AppPath)
+D:\Tester SW(DC)\SDT-2200\Station2.exe=$(AppPath)
+D:\Tester SW(DC)\SDT-2200\Station1.exe=$(AppPath)
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=$(AppPath)
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=$(AppPath)
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=$(AppPath)
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=$(AppPath)
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=$(AppPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTKO.DLL=$(WinSysPath)
+C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\StarProbe.exe=$(AppPath)
+
+[Package|sdt-2100(SPX)|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=No
+C:\multi개발\sblist_last02171\station2.exe=No
+C:\multi개발\sblist_last02171\station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=No
+C:\sdt-2200(half1)\station2.exe=No
+C:\work\sdt-2200(xp-half)\GRID32.OCX=No
+C:\sdt-2200(half1)\station1.exe=No
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION1.EXE=No
+C:\sdt-2200(half0603)\STATION2.EXE=No
+C:\sdt-2200(half0603)\STATION1.EXE=No
+C:\sdt-2200(half-0604)\STATION2.EXE=No
+C:\sdt-2200(half-0604)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\station1.exe=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=No
+C:\0703\Station2.exe=No
+C:\0703\Station1.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=No
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station2.exe=No
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=No
+C:\SDT-2200(1117-BVDSX)\Station2.exe=No
+C:\SDT-2200(1117-BVDSX)\Station1.exe=No
+C:\sdt-xx(1129)\SDT-2200\Station2.exe=No
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=No
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station2.exe=No
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=No
+C:\SDT-2200(2004.12.06) SAME,CALC\Station2.exe=No
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=No
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station2.exe=No
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=No
+D:\Tester SW(DC)\SDT-2200\Station2.exe=No
+D:\Tester SW(DC)\SDT-2200\Station1.exe=No
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=No
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=No
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=No
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=No
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=No
+C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\StarProbe.exe=No
+
+[Package|sdt-2100(SPX)|Distribution]
+Type=multi
+Size=1.2 MB
+Title=Star Probe
+
+[Package|sdt-2100(SPX)|IconGroups]
+Group0=Star Probe
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|sdt-2100(SPX)|Star Probe]
+Icon1=StarProbe.exe
+Title1=StarProbe
+StartIn1=$(AppPath)
+Key1=Icon4
+
+[Package|sdt-2100(SPX)|Package]
+PackageFolder=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE
+ProjectFolder=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01
+ServerSideCab=
+File1=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE\setup.exe
+File2=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE\Setup.Lst
+File3=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE\StarPr1.CAB
+File4=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE\StarPr2.CAB
+File5=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE\StarPr3.CAB
+File6=C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\SET-UP FILE\StarPr4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|SPC-2001|SDT-2200]
+Icon1=Station2.exe
+Title1=station2
+StartIn1=$(AppPath)
+Key1=Icon4
+Icon2=station1.exe
+Title2=station1
+StartIn2=$(AppPath)
+Key2=Icon2
+
+[Package|SPC-2001|SDT-2100]
+Icon1=SDT-2100.exe
+Title1=sdt-2100
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|SPC-2001|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SET-UP
+
+[Package|SPC-2001|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SPC-2001|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SPC-2001|Files Found]
+station1.exe=C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE
+
+[Package|SPC-2001|Files Released]
+pc sdt-2200.exe=
+sdt-2100.exe=
+sdt-2200.exe=
+station1.exe=
+station2.exe=
+pc.exe=
+vbsicl32.dll=
+vbsicl16.dll=
+
+[Package|SPC-2001|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\hirestimer.ocx=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=
+C:\vb_source\Grid\FloatBox.ocx=
+C:\WINDOWS\SYSTEM\port_io.dll=
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=
+C:\WINDOWS\SYSTEM\FloatBox.ocx=
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=
+C:\vb_source\sblist31\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+C:\WINDOWS\SYSTEM\SBList30.ocx=
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=
+C:\WINDOWS\SYSTEM\MBTimer.ocx=
+C:\multi개발\sblist_last02171\station1.exe=
+C:\multi개발\sblist_last02171\station2.exe=
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=
+C:\work\SBList30.ocx=
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=
+C:\sdt-2200(half1)\ibm_io.dll=
+C:\sdt-2200(half1)\station1.exe=
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=
+C:\WINDOWS\system32\SBList30.ocx=
+C:\WINDOWS\system32\hirestimer.ocx=
+C:\WINDOWS\system32\DLPORTIO.dll=
+C:\sdt-2200(0531)\STATION1.EXE=
+C:\sdt-2200(half보완)\STATION2.EXE=
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\PC.EXE=
+C:\sdt-2200(half3-0607)\STATION2.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=
+C:\SDT-2200(1117-BVDSX)\Station1.exe=
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=
+C:\WINDOWS\system32\ccrpTmr6.dll=
+C:\Star Probe\ELP2\ELP Manual\Manual\SDT-2100(Star Probe)-manual\SBList30.ocx=
+
+[Package|SPC-2001|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\msflxgrd.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|SPC-2001|Files Added]
+C:\sdt-2200(half보완1)\STATION1.EXE=
+C:\sdt-2200(half0603)\STATION1.EXE=
+C:\sdt-2200(half-0604)\STATION1.EXE=
+C:\sdt-2200(half3-0607)\STATION1.EXE=
+C:\sdt-2200(half4-0607)\station1.exe=
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=
+C:\0703\Station1.exe=
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=
+C:\SDT-2200(1117-BVDSX)\Station1.exe=
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)\SDT-2200\Station1.exe=
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=
+
+[Package|SPC-2001|Files Removed]
+d:\test program 정리\sdt-2200 (standard)\sdt-2200.exe=
+d:\test program 정리\sdt-2200 (standard)\sdt-2100.exe=
+d:\test program 정리\sdt-2200 (standard)\station2.exe=
+d:\test program 정리\sdt-2200 (standard)\station1.exe=
+c:\jma_vb\work\작업폴더\sblist-last\pc.exe=
+c:\windows\system\mbtimer.ocx=
+c:\sdt-2200(half3-0607)\pc.exe=
+c:\windows\system\msmask32.ocx=
+
+[Package|SPC-2001|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6KO.DLL=Yes
+C:\WINDOWS\system32\DLPORTIO.dll=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\CMCTLKO.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGKO.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCKO.DLL=Yes
+C:\WINDOWS\system32\THREED32.OCX=Yes
+C:\WINDOWS\system32\hirestimer.ocx=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSCOMKO.DLL=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDKO.DLL=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\MSMSKKO.DLL=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\SYSINKO.DLL=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\TABCTKO.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\WINDOWS\system32\ccrpTmr6.dll=Yes
+C:\Star Probe\ELP2\ELP Manual\Manual\SDT-2100(Star Probe)-manual\SBList30.ocx=Yes
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SPC-2001X.exe=Yes
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\el9050.dll=Yes
+
+[Package|SPC-2001|Configure Registry Files]
+Applicable=No
+
+[Package|SPC-2001|Configure Remote Servers]
+Applicable=No
+
+[Package|SPC-2001|Install Locations]
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\port_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGKO.DLL=$(WinSysPath)
+C:\Program Files\MT2100AM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\threed32.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDKO.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=$(AppPath)
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\port_io.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMKO.DLL=$(WinSysPath)
+C:\Program Files\SDT-2200\GRID32.OCX=$(AppPath)
+C:\vb_source\Grid\FloatBox.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\FloatBox.ocx=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RCHTXKO.DLL=$(WinSysPath)
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=$(AppPath)
+C:\vb_source\sblist31\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKKO.DLL=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SBList30.ocx=$(WinSysPath)
+C:\jma_vb\work\작업폴더\sblist-last\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINKO.DLL=$(WinSysPath)
+C:\multi개발\sblist_last02171\station2.exe=$(AppPath)
+C:\multi개발\sblist_last02171\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=$(AppPath)
+C:\Program Files\SDT-2200CV\GRID32.OCX=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=$(AppPath)
+C:\sdt-2200(half1)\station2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6KO.DLL=$(WinSysPath)
+C:\sdt-2200(half1)\ibm_io.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\threed32.ocx=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMKO.DLL=$(WinSysPath)
+C:\work\sdt-2200(xp-half)\GRID32.OCX=$(AppPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDKO.DLL=$(WinSysPath)
+C:\work\SBList30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINKO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\sdt-2200(half1)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\DLPORTIO.dll=$(WinSysPath)
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=$(AppPath)
+C:\sdt-2200(0531)\STATION2.EXE=$(AppPath)
+C:\WINDOWS\system32\DLPORTIO.dll=$(WinSysPath)
+C:\WINDOWS\system32\THREED32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\hirestimer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SBList30.ocx=$(WinSysPath)
+C:\sdt-2200(0531)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half보완)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half보완1)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half0603)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half-0604)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION1.EXE=$(AppPath)
+C:\sdt-2200(half3-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\STATION2.EXE=$(AppPath)
+C:\sdt-2200(half4-0607)\station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=$(AppPath)
+C:\0703\Station2.exe=$(AppPath)
+C:\0703\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=$(AppPath)
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station2.exe=$(AppPath)
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=$(AppPath)
+C:\SDT-2200(1117-BVDSX)\Station2.exe=$(AppPath)
+C:\SDT-2200(1117-BVDSX)\Station1.exe=$(AppPath)
+C:\sdt-xx(1129)\SDT-2200\Station2.exe=$(AppPath)
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=$(AppPath)
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station2.exe=$(AppPath)
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=$(AppPath)
+C:\SDT-2200(2004.12.06) SAME,CALC\Station2.exe=$(AppPath)
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=$(AppPath)
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station2.exe=$(AppPath)
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=$(AppPath)
+D:\Tester SW(DC)\SDT-2200\Station2.exe=$(AppPath)
+D:\Tester SW(DC)\SDT-2200\Station1.exe=$(AppPath)
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=$(AppPath)
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=$(AppPath)
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=$(AppPath)
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=$(AppPath)
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=$(AppPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTKO.DLL=$(WinSysPath)
+C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\StarProbe.exe=$(AppPath)
+C:\Star Probe\SPC-2100X\SPC-2001 (20060208-01)\SPC-2001X.exe=$(AppPath)
+C:\Star Probe\SPC-2100X\SPC-2001 (20060208-01)\el9050.dll=$(AppPath)
+C:\WINDOWS\system32\ccrpTmr6.dll=$(WinSysPath)
+C:\Star Probe\SPC-2100X\SPC-2001 (20060209-01)\SPC-2001X.exe=$(AppPath)
+C:\Star Probe\SPC-2100X\SPC-2001 (20060209-01)\el9050.dll=$(AppPath)
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.06.20\SPC-2001X.exe=$(AppPath)
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.06.20\el9050.dll=$(AppPath)
+C:\Star Probe\ELP2\ELP Manual\Manual\SDT-2100(Star Probe)-manual\SBList30.ocx=$(WinSysPath)
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SPC-2001X.exe=$(AppPath)
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\el9050.dll=$(AppPath)
+
+[Package|SPC-2001|Configure Shared Files]
+Applicable=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station2.exe=No
+C:\Program Files\MT2100AM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\station1.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2200.exe=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=Yes
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\SDT-2100.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc sdt-2200.exe=No
+D:\TEST PROGRAM 정리\SDT-2200 (standard)\pc.exe=No
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station1.exe=No
+C:\Program Files\SDT-2200\GRID32.OCX=Yes
+C:\jma_vb\work\작업폴더\작업폴더(block2)\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station2.exe=No
+C:\WINDOWS\바탕 화면\msflex10-02\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station2.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\station1.exe=No
+C:\jma_vb\work\작업폴더\sblist-last\pc.exe=No
+C:\multi개발\sblist_last02171\station2.exe=No
+C:\multi개발\sblist_last02171\station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan\station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station1.exe=No
+C:\Program Files\SDT-2200CV\GRID32.OCX=No
+C:\jma_vb\work\작업폴더\sdt-2100(kec)\station2.exe=No
+C:\sdt-2200(half1)\station2.exe=No
+C:\work\sdt-2200(xp-half)\GRID32.OCX=No
+C:\sdt-2200(half1)\station1.exe=No
+C:\jma_vb\work\작업폴더\half-query\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\half-query\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi\sdt-2200\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION2.EXE=No
+C:\sdt-2200(0531)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION1.EXE=No
+C:\sdt-2200(half보완)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION2.EXE=No
+C:\sdt-2200(half보완1)\STATION1.EXE=No
+C:\sdt-2200(half0603)\STATION2.EXE=No
+C:\sdt-2200(half0603)\STATION1.EXE=No
+C:\sdt-2200(half-0604)\STATION2.EXE=No
+C:\sdt-2200(half-0604)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION1.EXE=No
+C:\sdt-2200(half3-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\STATION2.EXE=No
+C:\sdt-2200(half4-0607)\station1.exe=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\kec-wuxi(0618)\sdt-2200\STATION1.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION2.EXE=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200\STATION1.EXE=No
+C:\0703\Station2.exe=No
+C:\0703\Station1.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station2.exe=No
+C:\jma_vb\work\작업폴더\chungsan(0628)\sdt-2200(half-0706)\Station1.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station2.exe=No
+C:\jma_vb\work\작업폴더\odt-scan(0710)\Station1.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station2.exe=No
+C:\jma_vb\work\작업폴더\sdt-2200(0830)\Station1.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station2.exe=No
+C:\jma_vb\work\작업폴더\KEC Setup File(2004.09.22)\sdt-2200(0922)\Station1.exe=No
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station2.exe=No
+C:\Tester SW 최종\최종버전 Tester SW(2004.10.27)\작업폴더\KEC Setup File(2004.09.22)-(최종DC용)\sdt-2200(0922)\Station1.exe=No
+C:\SDT-2200(1117-BVDSX)\Station2.exe=No
+C:\SDT-2200(1117-BVDSX)\Station1.exe=No
+C:\sdt-xx(1129)\SDT-2200\Station2.exe=No
+C:\sdt-xx(1129)\SDT-2200\Station1.exe=No
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station2.exe=No
+E:\Tester SW (FAIL BRANCH 제외)-2004.12.02\SDT-2200\Station1.exe=No
+C:\SDT-2200(2004.12.06) SAME,CALC\Station2.exe=No
+C:\SDT-2200(2004.12.06) SAME,CALC\Station1.exe=No
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station2.exe=No
+C:\SDT TESTER SW(2004.12.10)\SDT-2200\Station1.exe=No
+D:\Tester SW(DC)\SDT-2200\Station2.exe=No
+D:\Tester SW(DC)\SDT-2200\Station1.exe=No
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=No
+D:\Tester SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=No
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station1.exe=No
+E:\stdxx-SW(DC)-정리 완료2004-12 end\SDT-2200\Station2.exe=No
+C:\Star Probe\Program\SDT-2100(Star Probe)2005.09.13-3\StarProbe.exe=No
+C:\Star Probe\Pro\SDT-2100(Star Probe)2005.10.01\StarProbe.exe=No
+C:\Star Probe\SPC-2100X\SPC-2001 (20060208-01)\SPC-2001X.exe=No
+C:\Star Probe\SPC-2100X\SPC-2001 (20060208-01)\el9050.dll=No
+C:\Star Probe\SPC-2100X\SPC-2001 (20060209-01)\SPC-2001X.exe=No
+C:\Star Probe\SPC-2100X\SPC-2001 (20060209-01)\el9050.dll=No
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.06.20\SPC-2001X.exe=No
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.06.20\el9050.dll=No
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SPC-2001X.exe=No
+C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\el9050.dll=No
+
+[Package|SPC-2001|Distribution]
+Type=single
+Size=1.2 MB
+Title=SPC-2001
+
+[Package|SPC-2001|IconGroups]
+Group0=Star Probe
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|SPC-2001|Star Probe]
+Icon1=SPC-2001X.exe
+Title1=SPC-2001X
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|SPC-2001|Package]
+PackageFolder=C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SET-UP
+ProjectFolder=C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12
+ServerSideCab=
+File1=C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SET-UP\setup.exe
+File2=C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SET-UP\Setup.Lst
+File3=C:\Star Probe\SPC-2100X\SPC-2001(star Probe)2006.07.12\SET-UP\SPC-2001X.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
